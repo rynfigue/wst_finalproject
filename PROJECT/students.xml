@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+<student>
+<id>1</id>
+<name>Gelo</name>
+<profile_picture>uploads/gelo.jpg</profile_picture>
+<course>BSIT</course>
+<year_level>3</year_level>
+<section>AG1</section>
+<adviser>Teresita</adviser>
+<school_year>2025</school_year>
+</student>
+<student>
+<id>2</id>
+<name>Jacob</name>
+<profile_picture>uploads/jacob.jpg</profile_picture>
+<course>BSIT</course>
+<year_level>3</year_level>
+<section>AG1</section>
+<adviser>Teresita</adviser>
+<school_year>2025</school_year>
+</student>
+</students>
